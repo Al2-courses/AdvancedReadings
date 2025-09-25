@@ -13,7 +13,7 @@ Department of Politics and Economics, Ankara University
     - **Office Hours:** Appointments only
 - Suay Tosyalı
     - **Mail:** suaytosyali[at]gmail.com
-    - **[Personal Site](https://suaytli.github.io/)**
+    - [**Personal Site**](https://suaytli.github.io/)
 - Çağıl Derköken
     - **Mail:** derkoken_cagil[at]icloud.com
     - [**Personal Site**](https://cagilderkoken.github.io)
@@ -85,19 +85,19 @@ Suggested Resources:
 # Form Links and Midterm + Final Announcements
 **Note:** Form links will be inactive at 7 PM.
 
-| Week No | Topic Name                                                                                   | Form Link |
-| ------- | -------------------------------------------------------------------------------------------- | --------- |
-| Week 1  | Course Overview                                                                              | Link      |
-| Week 2  | Google Scholar, Notebook LM, Elicit                                                          | Link      |
-| Week 3  | Zotero, Google Drive, Resource Management                                                    | Link      |
-| Week 4  | [AI Historian](https://chatgpt.com/g/g-vlyY4pSY2-ai-historian), GPT, Usage of AI in Research | Link      |
-| Week 5  | Exploring Advanced Notion                                                                    | Link      |
-| Week 6  | Academic Publishing Process                                                                  | Link      |
-| Week 7  | Specialized Software for PolEcon Discussion                                                  | Link      |
-| Week 8  | Reading and Note Taking                                                                      | Link      |
-| Week 9  | Reading and Note Taking 2                                                                    | Link      |
-| Week 10 | Productivity Enhancements for Researchers                                                    | Link      |
-| Week 11 | Future of Academia [Discussion]                                                              | Link      |
+| Week No | Topic Name | Form Link |
+| ------- | ---------- | --------- |
+| Week 1  | TBA        | Link      |
+| Week 2  | TBA        | Link      |
+| Week 3  | TBA        | Link      |
+| Week 4  | TBA        | Link      |
+| Week 5  | TBA        | Link      |
+| Week 6  | TBA        | Link      |
+| Week 7  | TBA        | Link      |
+| Week 8  | TBA        | Link      |
+| Week 9  | TBA        | Link      |
+| Week 10 | TBA        | Link      |
+| Week 11 | TBA        | Link      |
 
 ---
 
