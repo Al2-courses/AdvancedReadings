@@ -83,7 +83,7 @@ Suggested Resources:
 ---
 
 # Form Links and Midterm + Final Announcements
-**Note:** Form links will be inactive at 7 PM.
+**Note:** Form links will be inactive at 24.00.
 
 | Week No | Topic Name | Form Link |
 | ------- | ---------- | --------- |
