@@ -4,6 +4,8 @@ Department of Politics and Economics, Ankara University
 
 2025-2026 Academic Year, Fall Term Course
 
+**Fridays at 13.00 // Room: 125**
+
 ---
 **Lecturer & TA Information**
 
