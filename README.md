@@ -89,7 +89,7 @@ Suggested Resources:
 
 | Week No | Topic Name | Form Link |
 | ------- | ---------- | --------- |
-| Week 1  | TBA        | Link      |
+| Week 1  | ["Mind the AI Divide"        | [Link](https://forms.gle/fkZ9TtwYfkDSZgfx8)      |
 | Week 2  | TBA        | Link      |
 | Week 3  | TBA        | Link      |
 | Week 4  | TBA        | Link      |
