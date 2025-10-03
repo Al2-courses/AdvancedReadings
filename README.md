@@ -11,7 +11,7 @@ Department of Politics and Economics, Ankara University
 
 - Altuğ Yalçıntaş
     - **Mail:** altug.yalcintas[at]politics.ankara.edu.tr
-    - [**Personal Site**](https://sekerefe.github.io/)
+    - [**Personal Site**](https://ayalcintas.notion.site/)
     - **Office Hours:** Appointments only
 - Suay Tosyalı
     - **Mail:** suaytosyali[at]gmail.com
@@ -88,7 +88,7 @@ Suggested Resources:
 
 | Week No | Topic Name | Form Link |
 | ------- | ---------- | --------- |
-| Week 1  | "Mind the AI Divide"        | [Link](https://forms.gle/fkZ9TtwYfkDSZgfx8)      |
+| Week 1  | ["Mind the AI Divide"](https://www.un.org/digital-emerging-technologies/sites/www.un.org.techenvoy/files/MindtheAIDivide.pdf)        | [Link](https://forms.gle/fkZ9TtwYfkDSZgfx8)      |
 | Week 2  | TBA        | Link      |
 | Week 3  | TBA        | Link      |
 | Week 4  | TBA        | Link      |
