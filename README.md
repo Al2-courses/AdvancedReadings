@@ -81,7 +81,6 @@ Suggested Resources:
 1. [Online Oxford English Dictionary](https://www.oed.com/?tl=true)
 2. [The Penguin Dictionary of Economics](https://www.penguin.co.uk/books/176252/the-penguin-dictionary-of-economics-by-baxter-graham-bannock-ronald/9780141045238)
 3. [The New Palgrave Dictionary of Economics](https://link.springer.com/referencework/10.1057/978-1-349-95121-5)
-4. [Stolen Focus - Johann Hari](https://stolenfocusbook.com/)
 ---
 
 # Form Links and Midterm + Final Announcements
@@ -89,7 +88,7 @@ Suggested Resources:
 
 | Week No | Topic Name | Form Link |
 | ------- | ---------- | --------- |
-| Week 1  | ["Mind the AI Divide"        | [Link](https://forms.gle/fkZ9TtwYfkDSZgfx8)      |
+| Week 1  | "Mind the AI Divide"        | [Link](https://forms.gle/fkZ9TtwYfkDSZgfx8)      |
 | Week 2  | TBA        | Link      |
 | Week 3  | TBA        | Link      |
 | Week 4  | TBA        | Link      |
