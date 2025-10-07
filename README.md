@@ -89,7 +89,7 @@ Suggested Resources:
 **Week 1**
 Reading Assignment: ["Mind the Divide: Shaping a Global Perspective on the Future of Work" (2024) by ILO](https://www.un.org/digital-emerging-technologies/sites/www.un.org.techenvoy/files/MindtheAIDivide.pdf)
 
-Submit Your Assignment [Here](https://forms.gle/fkZ9TtwYfkDSZgfx8).
+Submit Your Week 1 Assignment [Here](https://forms.gle/fkZ9TtwYfkDSZgfx8).
 
 [Read Lecture Notes 1](https://docs.google.com/document/d/1CSpREou0px06E8OMq2ZVcGYix0IdU_5N/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true)
 
