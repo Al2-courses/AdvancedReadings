@@ -94,7 +94,7 @@ Submit Your Week 1 Assignment [Here](https://forms.gle/fkZ9TtwYfkDSZgfx8).
 [Read Lecture Notes 1](https://docs.google.com/document/d/1CSpREou0px06E8OMq2ZVcGYix0IdU_5N/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true)
 
 **Week 2**
-Reading Assignment: ["The Macroeconomics of AI" (2024) by Doran Acemoğlu](https://economics.mit.edu/sites/default/files/2024-04/The%20Simple%20Macroeconomics%20of%20AI.pdf)
+Reading Assignment: ["The Simple Macroeconomics of AI" (2024) by Daron Acemoğlu](https://economics.mit.edu/sites/default/files/2024-04/The%20Simple%20Macroeconomics%20of%20AI.pdf)
 
 Submit Your Week 2 Assignment [Here](https://forms.gle/7VPfdCTtBxEpo8BJ7).
 
