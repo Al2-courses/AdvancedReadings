@@ -91,7 +91,7 @@ Reading Assignment: ["Mind the Divide: Shaping a Global Perspective on the Futur
 
 Submit Your Week 1 Assignment [Here](https://forms.gle/fkZ9TtwYfkDSZgfx8).
 
-[Read Lecture Notes 1](https://docs.google.com/document/d/1CSpREou0px06E8OMq2ZVcGYix0IdU_5N/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true)
+**[Read Lecture Notes 1](https://docs.google.com/document/d/1CSpREou0px06E8OMq2ZVcGYix0IdU_5N/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true)**
 
 **Week 2**
 Reading Assignment: ["The Simple Macroeconomics of AI" (2024) by Daron Acemoğlu](https://economics.mit.edu/sites/default/files/2024-04/The%20Simple%20Macroeconomics%20of%20AI.pdf)
@@ -99,6 +99,19 @@ Reading Assignment: ["The Simple Macroeconomics of AI" (2024) by Daron Acemoğlu
 Submit Your Week 2 Assignment [Here](https://forms.gle/7VPfdCTtBxEpo8BJ7).
 
 **Week 3**
+Reading Assignment: ["The Intellectual Origins of the Industrial Revolution" (2005) by Joel Mokyr.](https://www.jstor.org/stable/pdf/3875064.pdf)
+
+Submit Your Week 3 Assignment [Here](https://forms.gle/MiChNLzLmv6FnHB68)
+
+**Week 4**
+Reading Assignment: ["Why the Middle East is Economically Underdeveloped" (2004) by Timur Kuran](https://www.aeaweb.org/articles?id=10.1257/0895330042162421)
+
+Submit Your Week 4 Assignment [Here](https://forms.gle/pwwDLK58en54chqM6)
+
+**Week 5**
+Reading Assignment: TBA
+
+Submit Your Week 5 Assignment [Here](https://forms.gle/yZqpfSk7dB4WHABi9)
 
 ---
 
