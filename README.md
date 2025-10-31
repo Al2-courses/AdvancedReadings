@@ -109,7 +109,7 @@ Reading Assignment: ["Why the Middle East is Economically Underdeveloped" (2004)
 Submit Your Week 4 Assignment [Here](https://forms.gle/pwwDLK58en54chqM6)
 
 **Week 5**
-Reading Assignment: ["My Students Use AI So What?" (2025) by John McWorhter](https://www.theatlantic.com/ideas/archive/2025/10/ai-college-crisis-overblown/684642/?gift=K52KM4-Q0gyhKyU1aqKtavvwRvZ3wRZZlYPRNY-yP00&utm_source=copy-link&utm_medium=social&utm_campaign=share&trk=public_post_comment-text)
+Reading Assignment: ["My Students Use AI, So What?" (2025) by John McWorhter](https://www.theatlantic.com/ideas/archive/2025/10/ai-college-crisis-overblown/684642/?gift=K52KM4-Q0gyhKyU1aqKtavvwRvZ3wRZZlYPRNY-yP00&utm_source=copy-link&utm_medium=social&utm_campaign=share&trk=public_post_comment-text)
 
 Submit Your Week 5 Assignment [Here](https://forms.gle/yZqpfSk7dB4WHABi9)
 
