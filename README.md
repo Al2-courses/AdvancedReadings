@@ -114,9 +114,14 @@ Reading Assignment: ["My Students Use AI, So What?" (2025) by John McWorhter](ht
 Submit Your Week 5 Assignment [Here](https://forms.gle/yZqpfSk7dB4WHABi9)
 
 **Week 6**
+Assignment: Familiarising with [Zotero](https://www.zotero.org/)
+
+Submit Your Week 6 Assignment [Here](https://forms.gle/HwHDqZDSni69ySc3A)
+
+**Week 7**
 Reading Assignment: [Zeynep Tüfekçi. 2025. "Gender Differences in Computing Interest"](https://www.tandfonline.com/doi/full/10.1080/08993408.2024.2433354?af=R)
 
-Submit Your Week 6 Assignment [Here](https://forms.gle/W1kSf2Nu5mZQYUmF7)
+Submit Your Week 7 Assignment [Here](https://forms.gle/W1kSf2Nu5mZQYUmF7)
 
 ---
 
