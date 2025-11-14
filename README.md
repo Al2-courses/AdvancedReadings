@@ -113,6 +113,11 @@ Reading Assignment: ["My Students Use AI, So What?" (2025) by John McWorhter](ht
 
 Submit Your Week 5 Assignment [Here](https://forms.gle/yZqpfSk7dB4WHABi9)
 
+**Week 6**
+Reading Assignment: [Zeynep Tüfekçi. 2025. "Gender Differences in Computing Interest"](https://www.tandfonline.com/doi/full/10.1080/08993408.2024.2433354?af=R)
+
+Submit Your Week 6 Assignment [Here](https://forms.gle/W1kSf2Nu5mZQYUmF7)
+
 ---
 
 # Evaluation and Expectations
@@ -129,9 +134,9 @@ Please read the following paper in order to get ready for your exam:
 
 |Reading Name|Reading Link|
 |---|---|
-|Article Name 1|Link|
-|Article Name 2|Link|
-|Article Name 2|Link|
+|Acemoğlu, Johnson, and Robinson. 2001. "The Colonial Origins of Comparative Development: An Empirical Investigation"|[Link](https://www.aeaweb.org/articles?id=10.1257%2Faer.91.5.1369&ref=marionomics-economia-y-ciencia-de-datos)|
+|Kuran. 1995. "Islamic Economics and the Islamic Subeconomy"|[Link](https://www.aeaweb.org/articles?id=10.1257/jep.9.4.155)|
+|Tüfekçi. 2007. "Can you see me now? Audience and disclosure regulation in online social network sites"|[Link](https://journals.sagepub.com/doi/10.1177/0270467607311484)|
 
 ---
 
