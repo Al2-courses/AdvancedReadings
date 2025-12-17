@@ -123,6 +123,18 @@ Reading Assignment: [Zeynep Tüfekçi. 2025. "Gender Differences in Computing In
 
 Submit Your Week 7 Assignment [Here](https://forms.gle/W1kSf2Nu5mZQYUmF7)
 
+**MIDTERM**
+
+**Week 8**
+Reading Assignment: [Familiarising with Ufuk Akçiğit's Works](https://www.ufukakcigit.com/)
+
+Submit Your Week 8 Assignment [Here](https://forms.gle/DmFYK1RyTdaSu6hKA)
+
+**Week 9**
+Reading Assignment: ["The Making of the Turkish Financial Crisis" (2003) by Korkut Boratav](https://www.sciencedirect.com/science/article/abs/pii/S0305750X03001086)
+
+Submit Your Week 9 Assignment [Here](https://forms.gle/Cm7Xmz7SDpvqyB5JA)
+
 ---
 
 # Evaluation and Expectations
