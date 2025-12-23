@@ -135,6 +135,16 @@ Reading Assignment: ["The Making of the Turkish Financial Crisis" (2003) by Kork
 
 Submit Your Week 9 Assignment [Here](https://forms.gle/Cm7Xmz7SDpvqyB5JA)
 
+**Week 10**
+Reading Assignment: ["The Modernization of Turkish Women" (1978) by Nermin Abadan Unat](https://nerminabadanunat.mulkiye.org.tr/work/107/The-Modernization-of-Turkish-Women)
+
+Submit Your Week 10 Assignment [Here](https://forms.gle/1q9NWUSSTQKuRoDL6)
+
+**Week 11**
+Reading Assignment:
+
+Submit Your Week 11 Assignment Here
+
 ---
 
 # Evaluation and Expectations
